@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 41f8e7ebae3420f4dbfaf0f7465a5586
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - powerupPrefab: {fileID: 579594396793954165, guid: 36898c63fc34bfb4a894bd37699ebc60, type: 3}
+  - obstaclePrefab: {fileID: 9109129059755276558, guid: befc673f6fa390a45999b46488f4450d, type: 3}
+  - gasDoughnutPrefab: {fileID: 8401749553035671442, guid: 93c62493a43722d4bbcfdd29a0e38bbf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
